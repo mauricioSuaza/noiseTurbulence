@@ -1,5 +1,9 @@
 # noiseTurbulence
-Interactive Kinect project written inn processing for exhibitions. 
+Interactive Kinect project written inn processing for commercial exhibitions.
+
+Based on this code by the awesome Raven Kwok  
+
+http://www.openprocessing.org/sketch/143842
 
 - Dependencies
 
